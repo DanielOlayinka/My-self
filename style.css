@@ -39,7 +39,7 @@ box2 {
   justify-content: center;
   align-items: center;
   align-content: center;
-  background-color: aqua;
+  background-color: rgba(250, 163, 96, 0.9);
   border: #000000 solid 2px;
 }
 
